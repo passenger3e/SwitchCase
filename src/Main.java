@@ -5,6 +5,7 @@ public class Main {
             System.out.println("test");
         }else if(ab.equals("3")){
             System.out.println("test2");
+
         }
     }
 }
